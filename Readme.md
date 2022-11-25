@@ -2,6 +2,12 @@
 
 Extract top-level Go declarations from a file.
 
+## Installation
+
+```bash
+go install github.com/bastjan/declextract@latest
+```
+
 ## Usage
 
 ```bash
